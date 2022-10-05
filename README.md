@@ -1,6 +1,6 @@
 <html>
-  siemanko
-  kocham polske
+  <p>siemanko</p>
+  <p>kocham polske</p>
   
   
   
