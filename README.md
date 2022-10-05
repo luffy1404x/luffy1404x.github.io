@@ -1,14 +1,14 @@
 <html>
   <body>
 <table>
-  <caption>Monthly savings</caption>
+  <caption>Projekty</caption>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th>tabelka</th>
+    <th>komputer</th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>laptop</td>
+    <td>bajka</td>
   </tr>
   <tr>
     <td>February</td>
